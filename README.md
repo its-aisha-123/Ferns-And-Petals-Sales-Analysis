@@ -66,5 +66,5 @@ This analysis provides valuable insights to **optimize sales strategy, improve d
 
 ## **How to Use the Dashboard**
 1. Open the **Excel dashboard**.
-2. Use slicers to filter by **month, occasion, or product category**.
+2. Use slicers, timeline to filter by **month or occasion**.
 3. Analyze key metrics like **total revenue, top products, and customer trends**.
