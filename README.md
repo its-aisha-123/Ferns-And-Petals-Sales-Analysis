@@ -55,13 +55,13 @@ specific occasions.
 ## Key Insights
 The Ferns and Petals Sales Analysis dashboard provides insights into sales trends, customer behavior, and product performance. Key findings include:
 
-Total Revenue: ₹35,20,984 from 1,000 orders.
-Customer Spending: ₹3,520.98 per order (avg).
-Top-Selling Categories: Colors, Soft Toys, and Sweets.
-Peak Sales Months: March, July, and December.
-Occasion-Based Revenue: Highest for Anniversaries and Raksha Bandhan.
-Top 5 Products: Magnum Set, Quia Gift, Dolores Gift, Harum Pack, and Deserunt Box.
-City Insights: Imphal, Dhanbad, and Kavali drive the most orders.
-Delivery Time: Avg. 5.53 days, with no strong correlation to order quantity.
-Revenue by Gender: Male customers contribute significantly higher revenue.
+-Total Revenue: ₹35,20,984 from 1,000 orders.
+-Customer Spending: ₹3,520.98 per order (avg).
+-Top-Selling Categories: Colors, Soft Toys, and Sweets.
+-Peak Sales Months: March, July, and December.
+-Occasion-Based Revenue: Highest for Anniversaries and Raksha Bandhan.
+-Top 5 Products: Magnum Set, Quia Gift, Dolores Gift, Harum Pack, and Deserunt Box.
+-City Insights: Imphal, Dhanbad, and Kavali drive the most orders.
+-Delivery Time: Avg. 5.53 days, with no strong correlation to order quantity.
+-Revenue by Gender: Male customers contribute significantly higher revenue.
 This analysis helps FNP refine its marketing, inventory, and delivery strategies to enhance sales and customer satisfaction.
