@@ -5,7 +5,7 @@ Create a dashboard and answer the following key business questions to help the c
 improve its sales strategy and optimize customer satisfaction.
 ## Dataset Used
 https://github.com/Ayushi0214/FNP---Excel-Project/tree/main/fnp%20datasets
-## Problem Statement
+## **Key Business Questions Answered**
 1. Total Revenue: Identify the overall revenue.
 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
 3. Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
