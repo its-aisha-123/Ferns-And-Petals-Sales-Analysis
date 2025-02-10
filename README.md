@@ -49,3 +49,6 @@ specific occasions.
 ### **6. Business Insights & Recommendations**
 - Identified key insights (e.g., **which products drive the most revenue, seasonal trends**).
 - Suggested data-driven **sales strategies** to improve performance.
+  ## **Tools Used**
+- **Microsoft Excel** (Power Query Editor, Power Pivot, Pivot Tables, Dashboard Creation)
+- **Data Modeling & DAX**
