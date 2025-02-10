@@ -21,3 +21,31 @@ times.
 different occasions.
 10. Product Popularity by Occasion: Identify which products are most popular during
 specific occasions.
+## **Process**
+
+### **1. Data Extraction (ETL - Extract, Transform, Load)**
+- Imported raw **Ferns and Petals** sales data into **Power Query Editor**.
+- Cleaned and transformed data by **removing duplicates, handling missing values, and standardizing formats**.
+
+### **2. Data Transformation (Power Query Editor)**
+- Applied necessary **data cleaning, merging, and filtering**.
+- Created **calculated columns** for better insights (e.g., revenue, order processing time).
+
+### **3. Data Modeling (Power Pivot & Relationships)**
+- Established **relationships** between **Orders, Customers, and Products** tables.
+- Created **measures using DAX** (e.g., Total Revenue, Average Delivery Time).
+
+### **4. Data Analysis (Pivot Tables & Insights)**
+- Used **Pivot Tables** to generate key insights such as:
+  - Monthly Sales Performance
+  - Top-Selling Products
+  - Customer Spending Trends
+  - Occasion-Based Revenue Analysis
+
+### **5. Dashboard Creation**
+- Designed an **interactive dashboard** using charts, slicers, and KPIs.
+- Visualized **sales trends, top products, and city-wise orders** for better decision-making.
+
+### **6. Business Insights & Recommendations**
+- Identified key insights (e.g., **which products drive the most revenue, seasonal trends**).
+- Suggested data-driven **sales strategies** to improve performance.
