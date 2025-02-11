@@ -56,14 +56,6 @@ specific occasions.
 ## **Conclusion**
 This analysis provides valuable insights to **optimize sales strategy, improve delivery efficiency, and enhance customer satisfaction**. The interactive dashboard enables FNP to make data-driven decisions for better business performance.
 
-## **Repository Structure**
-```
-├── Data/              # Raw and cleaned data files
-├── Dashboard/         # Excel dashboard and visualization files
-├── Reports/          # Summary reports and insights
-├── README.md         # Project documentation (this file)
-```
-
 ## **How to Use the Dashboard**
 1. Open the **Excel dashboard**.
 2. Use slicers, timeline to filter by **month or occasion**.
